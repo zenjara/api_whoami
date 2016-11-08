@@ -1,0 +1,25 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenjara/api_whoami.git"
+  },
+  "author": "Ivan Matas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenjara/api_whoami/issues"
+  },
+  "homepage": "https://github.com/zenjara/api_whoami#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "ua-parser-js": "^0.7.11"
+  }
+}
